@@ -1,7 +1,7 @@
-# Tejz Hardware Monitor
+# Hardware Monitor
 
 ## Overview
-Tejz Hardware Monitor is a standalone Windows application designed for IT system diagnostics and automation. Packaged as an executable, it provides a Tkinter-based GUI to monitor hardware metrics (CPU, memory, disk, temperature) in real time, detect issues, auto-resolve them, and send Discord alerts. Tailored for IT support, this tool combines monitoring, logging, and proactive fixes in one portable package.
+Hardware Monitor is a standalone Windows application designed for IT system diagnostics and automation. Packaged as an executable, it provides a Tkinter-based GUI to monitor hardware metrics (CPU, memory, disk, temperature) in real time, detect issues, auto-resolve them, and send Discord alerts. Tailored for IT support, this tool combines monitoring, logging, and proactive fixes in one portable package.
 
 ---
 
@@ -25,7 +25,7 @@ Tejz Hardware Monitor is a standalone Windows application designed for IT system
 1. **Download**:
    - Clone or download this repository:
      ```bash
-     git clone https://github.com/tejveer77/Tejz-Hardware-Health-Monitor.git
+     git clone https://github.com/tejveer77/Hardware-Health-Monitor.git
      Please include you discord webhook in config.json
 2. After cloning please go to folder and open dist folder
 3. Make sure config.json and main.exe are present in dist
